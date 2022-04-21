@@ -94,7 +94,7 @@ class getdll(ZJULogin):
 
     def reminder(self,content):
         remind_func = [console.console, pushplus.pushplus_bot,dingding.dingding_bot,feishu.feishu_bot,serverj.serverJ,telegram.telegram_bot]
-        title = '浙大统一认证平台提醒您:'
+        title = '\n\n浙大DDL小助手提醒您:'
         threads = []
         for func in remind_func:
             t = Thread(target=func, args=(title,content))
