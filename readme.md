@@ -3,9 +3,10 @@
 
 # 浙江大学DDL提醒小助手
 ![avatar](./pic/logo.png)
-![GitHub Repo stars](https://github.com/Dimlitter/DDLremider)
-![GitHub forks](https://github.com/Dimlitter/DDLremider)
-
+ 
+![GitHub Repo stars](https://img.shields.io/github/stars/Dimlitter/DDLremider)
+![GitHub forks](https://img.shields.io/github/forks/Dimlitter/DDLremider)
+ 
 </div>
 
 <div align="center">
@@ -117,7 +118,7 @@ watch:
 
 <font size="3">
 
-欢迎加入[群聊](t.me/zjuers)共同交流
+欢迎加入[群聊](https://t.me/zjuers)共同交流
 
 
 </font>
